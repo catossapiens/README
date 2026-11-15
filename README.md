@@ -42,5 +42,4 @@ A coffee-making game project developed with Swift, SwiftUI and SpriteKit.
 
 ## Contact
 
-- [Email](mailto:mehmetcagatay27@gmail.com)
 - [Website](https://novexxa.dev/de)
